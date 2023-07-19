@@ -89,4 +89,33 @@ nav li a{
     display: flex;
     gap: 100px;
 }
+.img-pic{
+   border-radius: 8px;
+    
+    position: relative;
+    bottom: 300px;
+}
+/* sponsors styles */
+.sponsors-img-container{
+    display: flex;
+}
 
+
+
+/* footer styles */
+footer{
+    background:#0B0223;
+    padding: 25px;
+}
+.colur{
+    color: #FFF;
+}
+.colurs{
+    color: #FF42A5;
+}
+.colurss{
+    color: #8758F1;
+} 
+.sponsors-img-container{
+   
+}
