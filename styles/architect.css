@@ -1,0 +1,32 @@
+/* header styles */
+header{
+    background: #FFF;
+box-shadow: 0px 4px 30px 0px rgba(0, 0, 0, 0.05);
+padding: 38px 240px;
+}
+nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.nav-title{
+    font-size: 2.8rem;
+    font-weight: 700;
+}
+nav > ul{
+    display: flex;
+}
+nav li{
+    list-style: none ;
+    margin-right: 32px;
+    font-weight: 500;
+    font-size: 18px;
+}
+nav li a{
+    text-decoration: none;
+    color: #3C354F;
+}
+/* banner styles */
+.benner-primary{
+    color:#8758F1;
+}
