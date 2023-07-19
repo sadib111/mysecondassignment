@@ -54,6 +54,8 @@ nav li a{
 /* banner styles */
 .benner-primary{
     color:#8758F1;
+    background-image: url("images/Group\ 14.png");
+    background-repeat: no-repeat;
     
 }
 .banner{
@@ -64,5 +66,27 @@ nav li a{
 }
 .banner .profile-pic{
     width: 600px;
+}
+
+
+
+/* skills related styles */
+
+#Online-Games-Funny-Videos{
+    padding: 5px 600px;
+}
+.skills-container{
+    display: flex;
+    
+}
+.skill-description{
+    padding: 30px 5px 10px 10px;
+   
+}
+/* feature section styles */
+.features{
+    margin: 50px 50px 50px 50px;
+    display: flex;
+    gap: 100px;
 }
 
